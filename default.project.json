@@ -9,6 +9,15 @@
 			},
 			"KnitTest": {
 				"$path": "test/tests"
+			},
+			"KnitTS": {
+				"$path": "out/Knit"
+			},
+			"rbxts_include": {
+				"$path": "include",
+				"node_modules": {
+					"$path": "node_modules/@rbxts"
+				}
 			}
 		},
 		"ServerScriptService": {

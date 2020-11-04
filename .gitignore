@@ -4,3 +4,5 @@ logo/*.psd
 logo/*.ai
 site/
 *.rbxlx
+node_modules/
+out/
